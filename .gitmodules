@@ -52,3 +52,18 @@
 [submodule "NNv2"]
 	path = NNv2
 	url = https://github.com/zschro/gekko-neuralnet
+[submodule "crypto49er"]
+	path = crypto49er
+	url = https://github.com/crypto49er/Gekko-Strategies.git
+[submodule "markchen8717"]
+	path = markchen8717
+	url = https://github.com/markchen8717/Gekko_Bot_Trading_Strategies.git
+[submodule "Perpetuus85"]
+	path = Perpetuus85
+	url = https://github.com/Perpetuus85/gekko-neural-network-strategy.git
+[submodule "IWannaBeRich"]
+	path = IWannaBeRich
+	url = https://github.com/taglia90/IWannaBeRich.git
+[submodule "VmaPredict"]
+	path = VmaPredict
+	url = https://github.com/PGTBoos/GekkoStrategies.git
