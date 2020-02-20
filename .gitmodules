@@ -67,3 +67,6 @@
 [submodule "VmaPredict"]
 	path = VmaPredict
 	url = https://github.com/PGTBoos/GekkoStrategies.git
+[submodule "Kashkun"]
+	path = Kashkun
+	url = https://github.com/Kashkun/Gekko-Strategies-5.git
