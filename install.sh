@@ -5,10 +5,10 @@
 echo 'Gekko-Strategies installator'
 if [ -n "$1" ]
 then
-g=$1
+	g=$1
 else
-#echo 'Type path to Gekko folder: [ex. /home/xFFFFF/gekko/] and press ENTER'
-#read g
+	#echo 'Type path to Gekko folder: [ex. /home/xFFFFF/gekko/] and press ENTER'
+	#read g
 	echo 'Type path to Gekko folder: [ex. /home/xFFFFF/gekko/] and press ENTER'
 	read g
 fi
