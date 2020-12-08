@@ -1,0 +1,15 @@
+interval = 14
+
+[thresholds]
+low = 40
+high = 55
+persistence =11
+
+[bbands]
+TimePeriod = 20
+NbDevUp = 2
+NbDevDn = 2
+
+[custom]
+LowMod = 10
+HighMod = 30
